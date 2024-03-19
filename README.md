@@ -69,10 +69,12 @@ endmodule
 
 
 **RTL Schematic**
+
 ![WhatsApp Image 2024-03-19 at 09 46 31_13080158](https://github.com/PYNAMVINODH/HALF_ADDER_SUBTRACTOR/assets/145742678/e2e9e0f0-477b-4bb2-8a0f-f3eb31cef2b9)
 
 
 **Output/TIMING Waveform**
+<br>
 ![WhatsApp Image 2024-03-19 at 09 46 31_379a8f6a](https://github.com/PYNAMVINODH/HALF_ADDER_SUBTRACTOR/assets/145742678/081a5897-e755-44db-b585-28e66352a640)
 
 **Result:**
